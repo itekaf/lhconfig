@@ -1,3 +1,3 @@
-lhconf - Linterhub Manager Core Component
+lhconf - Linterhub Config Core Component
 =====
 
